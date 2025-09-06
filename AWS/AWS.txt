@@ -1,0 +1,30 @@
+#SDLC for the project.
+1)Planning -> Defines project goals,scope, resoureces,costs and risks.
+2)Requirement analysis -> Involves gathering, analyzing ,and documenting functional and non functional requirements.
+3)Design -> Translates requirements into a blueprint for the application, covering architecture, components and user interface.
+4)Implement -> Actual coding and development take place based on design specifications.
+5)Test -> Conducts various test such as unit testing, integration testing, system testing and user accept testing(UAT).
+6)Deploy -> Releases the software to users after through testing.
+7)Maintain -> Ensure the software continuous to operate as a required. Address bug fixes etc.
+
+#SDLC Models
+1)Waterfall Model:-> A linear and sequential approach, where each phase must be complete before the next begins.
+2)Agile Models -> an iteractive approach that emphasizes flexibility, collaboration and frequent releases.
+
+#DevOps -> DevOps started in 2007 by patrics debois 
+
+#DevOps lifecycle
+->#developer 
+   Continuous Development: plan,code
+   continuous testing :build ,test 
+  ###continuous integration###
+  #operator
+   continuous deployment: release,deploy
+   continuous monitoring:Operate,monitor   
+   
+ # Client server architecture
+ 
+ Client = which request resourece ex. browser                    note : resource = information
+ Server = which respond to the resourec ex server
+ 
+ 
